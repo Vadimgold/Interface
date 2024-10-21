@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|c:\\users\\vadim\\source\\repos\\winforms_laba2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\graphpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|solutionrelative:graphpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B462AFE-DD13-4F40-9B9A-8563E587DB71}|winforms_Laba2.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphPanel.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\GraphPanel.cs",
+              "RelativeDocumentMoniker": "GraphPanel.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\GraphPanel.cs",
+              "RelativeToolTip": "GraphPanel.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAUwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:05:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:47:08.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGMAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:27:11.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:27:00.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Source\\Repos\\winforms_Laba2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:27:02.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

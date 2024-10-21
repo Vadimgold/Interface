@@ -1,0 +1,10 @@
+C:\Users\Vadim\Source\Repos\winforms_Laba2\bin\Debug\winforms_Laba2.exe.config
+C:\Users\Vadim\Source\Repos\winforms_Laba2\bin\Debug\winforms_Laba2.exe
+C:\Users\Vadim\Source\Repos\winforms_Laba2\bin\Debug\winforms_Laba2.pdb
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.csproj.AssemblyReference.cache
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.Properties.Resources.resources
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.csproj.GenerateResource.cache
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.exe
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.pdb
+C:\Users\Vadim\Source\Repos\winforms_Laba2\obj\Debug\winforms_Laba2.Form1.resources
